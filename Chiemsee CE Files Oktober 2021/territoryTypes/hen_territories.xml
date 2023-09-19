@@ -1,52 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <territory-type>
-    <territory color="2912524697">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1743.33" z="3403.33" r="70"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1783.33" z="3590" r="70"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1800" z="3743.33" r="70"/>
+    <territory color="855638016">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="9553.21" z="773.097" r="70"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2375.5" z="539.659" r="70"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="927.8" z="1272.5" r="70"/>
     </territory>
     <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7431.67" z="1872.08" r="90"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7710" z="1841.43" r="50"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7794.29" z="1684.29" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4422.5" z="1842.5" r="80"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4575" z="1990" r="120"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4455" z="1585" r="80"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4760" z="1860" r="80"/>
     </territory>
     <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6525.81" z="6969.09" r="100"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6686.94" z="6921.39" r="80"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6211.67" z="9747.5" r="80"/>
     </territory>
     <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="5767.86" z="8530.4" r="90"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6385.63" z="9191.2" r="90"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6306.06" z="9350.9" r="90"/>
-    </territory>
-    <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2325" z="4626.25" r="120"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2026.67" z="4476.67" r="80"/>
-    </territory>
-    <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8266.9" z="7225.71" r="80"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="9125.25" z="7422.95" r="50"/>
-    </territory>
-    <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4652.62" z="7618.93" r="140"/>
-    </territory>
-    <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7185.71" z="5399.64" r="60"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7033.75" z="6557.5" r="60"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6905" z="6382.5" r="100"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7077.5" z="6395" r="50"/>
-    </territory>
-    <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6364.69" z="9753.1" r="90"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6180.31" z="9729.1" r="90"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4636.25" z="1787.1" r="90"/>
-    </territory>
-    <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="9801.56" z="2232.19" r="75"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="9604.38" z="2145.94" r="50"/>
-    </territory>
-    <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8439.17" z="9887.71" r="150"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4641.82" z="5330.69" r="70"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4682.11" z="5169.83" r="100"/>
     </territory>
     <territory color="855638016">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2990.96" z="4237.62" r="110"/>
@@ -70,22 +40,56 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="5695" z="8492.5" r="70"/>
     </territory>
     <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="9553.21" z="773.097" r="70"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2375.5" z="539.659" r="70"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="927.8" z="1272.5" r="70"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7185.71" z="5399.64" r="60"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7033.75" z="6557.5" r="60"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6905" z="6382.5" r="100"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7077.5" z="6395" r="50"/>
     </territory>
     <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4422.5" z="1842.5" r="80"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4575" z="1990" r="120"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4455" z="1585" r="80"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4760" z="1860" r="80"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6364.69" z="9753.1" r="90"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6180.31" z="9729.1" r="90"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4636.25" z="1787.1" r="90"/>
     </territory>
     <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6211.67" z="9747.5" r="80"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="9801.56" z="2232.19" r="75"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="9604.38" z="2145.94" r="50"/>
     </territory>
     <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4641.82" z="5330.69" r="70"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4682.11" z="5169.83" r="100"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8439.17" z="9887.71" r="150"/>
+    </territory>
+    <territory color="855638016">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="5767.86" z="8530.4" r="90"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6385.63" z="9191.2" r="90"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6306.06" z="9350.9" r="90"/>
+    </territory>
+    <territory color="855638016">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2325" z="4626.25" r="120"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2026.67" z="4476.67" r="80"/>
+    </territory>
+    <territory color="855638016">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8266.9" z="7225.71" r="80"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="9125.25" z="7422.95" r="50"/>
+    </territory>
+    <territory color="855638016">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4652.62" z="7618.93" r="140"/>
+    </territory>
+    <territory color="2912524697">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1743.33" z="3403.33" r="70"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1783.33" z="3590" r="70"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1800" z="3743.33" r="70"/>
+    </territory>
+    <territory color="855638016">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7431.67" z="1872.08" r="90"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7710" z="1841.43" r="50"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7794.29" z="1684.29" r="50"/>
+    </territory>
+    <territory color="855638016">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6525.81" z="6969.09" r="100"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6686.94" z="6921.39" r="80"/>
+    </territory>
+    <territory color="855638016">
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2065.8" z="5234.58" r="140"/>
+        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2003.77" z="4994.58" r="100"/>
     </territory>
     <territory color="855638016">
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="9096.98" z="7440.42" r="50"/>
@@ -104,9 +108,5 @@
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2256.25" z="8834.58" r="70"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2400.83" z="8719.58" r="70"/>
         <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="1972.5" z="8360" r="70"/>
-    </territory>
-    <territory color="855638016">
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2065.8" z="5234.58" r="140"/>
-        <zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="2003.77" z="4994.58" r="100"/>
     </territory>
 </territory-type>
